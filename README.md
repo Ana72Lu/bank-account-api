@@ -167,7 +167,7 @@ Utilize ferramentas/programas como Insomnia (recomendado), Postman e curl (linha
 
 ## Para finalizar a API:
 
-Execute no terminal:
+- Execute no terminal:
     ```bash
     docker compose down
     ```
