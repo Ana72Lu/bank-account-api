@@ -66,7 +66,7 @@ Aplicação desenvolvida em Node.js com PostgreSQL para gerenciamento e agregaç
     {
         "name": "Teste",
         "email": "teste@gmail.com",
-        "password": "teste",
+        "password": "teste123",
         "cpf": "3582593411"
     }
     ```
@@ -78,7 +78,7 @@ Aplicação desenvolvida em Node.js com PostgreSQL para gerenciamento e agregaç
     ```json
     {
         "email": "teste@gmail.com",
-        "password": "teste"
+        "password": "teste123"
     }
     ```
 
